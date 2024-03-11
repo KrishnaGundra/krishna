@@ -5,3 +5,5 @@ pro !!jhmy
 
 jghjdbhbf
 take input from ufirstcode.txt
+
+and implement
